@@ -1,0 +1,22 @@
+li {
+    color: red;
+}
+
+div {
+    margin-top: 10px;
+}
+
+.redbutton {
+    position: absolute;
+    background-color: red;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    display:block;
+}
+
+.largeimage {
+    width: 100px;
+    height: 100px;
+    display:block;
+}
